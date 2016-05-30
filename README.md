@@ -1,5 +1,8 @@
 # Scholar API
 
+[![DOI](https://zenodo.org/badge/18922/JusteRaimbault/ScholarAPI.svg)](https://zenodo.org/badge/latestdoi/18922/JusteRaimbault/ScholarAPI)
+
+
 An API to retrieve information from scholar.
 
 
