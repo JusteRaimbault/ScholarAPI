@@ -1,2 +1,4 @@
 /bin/
+.project_
+.classpath_
 .tor_tmp
