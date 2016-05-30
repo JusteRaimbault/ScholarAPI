@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="/Users/Juste/Documents/ComplexSystems/CityNetwork/Models/Utils/Java/ScholarAPI/lib/commons-httpclient-3.1.jar"/>
+	<classpathentry kind="lib" path="/Users/Juste/Documents/ComplexSystems/CityNetwork/Models/Utils/Java/ScholarAPI/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="/Users/Juste/Documents/ComplexSystems/CityNetwork/Models/Utils/Java/ScholarAPI/lib/commons-lang3-3.1.jar"/>
+	<classpathentry kind="lib" path="/Users/Juste/Documents/ComplexSystems/CityNetwork/Models/Utils/Java/ScholarAPI/lib/gexf4j-0.4.5-BETA-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="/Users/Juste/Documents/ComplexSystems/CityNetwork/Models/Utils/Java/ScholarAPI/lib/guava-11.0.2.jar"/>
+	<classpathentry kind="lib" path="/Users/Juste/Documents/ComplexSystems/CityNetwork/Models/Utils/Java/ScholarAPI/lib/javax.json-1.0.4.jar"/>
+	<classpathentry kind="lib" path="/Users/Juste/Documents/ComplexSystems/CityNetwork/Models/Utils/Java/ScholarAPI/lib/javax.json-api-1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Juste/Documents/ComplexSystems/CityNetwork/Models/Utils/Java/ScholarAPI/lib/jbibtex-1.0.15.jar"/>
+	<classpathentry kind="lib" path="/Users/Juste/Documents/ComplexSystems/CityNetwork/Models/Utils/Java/ScholarAPI/lib/jsoup-1.7.1.jar"/>
+	<classpathentry kind="lib" path="/Users/Juste/Documents/ComplexSystems/CityNetwork/Models/Utils/Java/ScholarAPI/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="/Users/Juste/Documents/ComplexSystems/CityNetwork/Models/Utils/Java/ScholarAPI/lib/mysql-connector-java-5.1.35.jar"/>
+	<classpathentry kind="lib" path="/Users/Juste/Documents/ComplexSystems/CityNetwork/Models/Utils/Java/ScholarAPI/lib/orchid-1.0.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Juste/Documents/ComplexSystems/CityNetwork/Models/Utils/Java/ScholarAPI/lib/stax2-api-4.0.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Juste/Documents/ComplexSystems/CityNetwork/Models/Utils/Java/ScholarAPI/lib/torpool.jar"/>
+	<classpathentry kind="lib" path="/Users/Juste/Documents/ComplexSystems/CityNetwork/Models/Utils/Java/ScholarAPI/lib/woodstox-core-asl-4.4.1.jar"/>
+	<classpathentry kind="lib" path="/Users/Juste/Documents/ComplexSystems/CityNetwork/Models/Utils/Java/ScholarAPI/lib/xmlunit-1.6.jar"/>
+	<classpathentry kind="lib" path="/Users/Juste/Documents/ComplexSystems/CityNetwork/Models/Utils/Java/ScholarAPI/lib/httpcomponents-core-4.4/lib/commons-cli-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/Juste/Documents/ComplexSystems/CityNetwork/Models/Utils/Java/ScholarAPI/lib/httpcomponents-core-4.4/lib/httpcore-4.4.jar"/>
+	<classpathentry kind="lib" path="/Users/Juste/Documents/ComplexSystems/CityNetwork/Models/Utils/Java/ScholarAPI/lib/httpcomponents-core-4.4/lib/httpcore-ab-4.4.jar"/>
+	<classpathentry kind="lib" path="/Users/Juste/Documents/ComplexSystems/CityNetwork/Models/Utils/Java/ScholarAPI/lib/httpcomponents-core-4.4/lib/httpcore-nio-4.4.jar"/>
+	<classpathentry kind="lib" path="/Users/Juste/Documents/ComplexSystems/CityNetwork/Models/Utils/Java/ScholarAPI/lib/httpcomponents-client-4.4/lib/commons-codec-1.9.jar"/>
+	<classpathentry kind="lib" path="/Users/Juste/Documents/ComplexSystems/CityNetwork/Models/Utils/Java/ScholarAPI/lib/httpcomponents-client-4.4/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/Juste/Documents/ComplexSystems/CityNetwork/Models/Utils/Java/ScholarAPI/lib/httpcomponents-client-4.4/lib/fluent-hc-4.4.jar"/>
+	<classpathentry kind="lib" path="/Users/Juste/Documents/ComplexSystems/CityNetwork/Models/Utils/Java/ScholarAPI/lib/httpcomponents-client-4.4/lib/httpclient-4.4.jar"/>
+	<classpathentry kind="lib" path="/Users/Juste/Documents/ComplexSystems/CityNetwork/Models/Utils/Java/ScholarAPI/lib/httpcomponents-client-4.4/lib/httpclient-cache-4.4.jar"/>
+	<classpathentry kind="lib" path="/Users/Juste/Documents/ComplexSystems/CityNetwork/Models/Utils/Java/ScholarAPI/lib/httpcomponents-client-4.4/lib/httpclient-win-4.4.jar"/>
+	<classpathentry kind="lib" path="/Users/Juste/Documents/ComplexSystems/CityNetwork/Models/Utils/Java/ScholarAPI/lib/httpcomponents-client-4.4/lib/httpcore-4.4.jar"/>
+	<classpathentry kind="lib" path="/Users/Juste/Documents/ComplexSystems/CityNetwork/Models/Utils/Java/ScholarAPI/lib/httpcomponents-client-4.4/lib/httpmime-4.4.jar"/>
+	<classpathentry kind="lib" path="/Users/Juste/Documents/ComplexSystems/CityNetwork/Models/Utils/Java/ScholarAPI/lib/httpcomponents-client-4.4/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/Juste/Documents/ComplexSystems/CityNetwork/Models/Utils/Java/ScholarAPI/lib/httpcomponents-client-4.4/lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
