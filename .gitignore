@@ -3,3 +3,5 @@
 .classpath
 .settings*
 .tor_tmp
+.DS_Store
+
